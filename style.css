@@ -1,0 +1,22 @@
+body {
+  width: 350px;
+  height: 250px;
+  /* Created with https://www.css-gradient.com */
+  background: #6077b7;
+  background: -webkit-linear-gradient(top left, #6077b7, #67c3a5);
+  background: -moz-linear-gradient(top left, #6077b7, #67c3a5);
+  background: linear-gradient(to bottom right, #6077b7, #67c3a5);
+  display: flex;
+  justify-content: center;
+}
+
+#jokeElement {
+  background-color: white;
+  display: inner-flex;
+  margin: auto;
+  font-size: 22px;
+  color: black;
+  border-radius: 20px;
+  border: 1px solid white;
+  padding: 10px;
+}
